@@ -7,7 +7,12 @@
 </div>
 
 &nbsp;
-# Presentación
+# **Proyecto** 
+Es un mini proyecto de la materia de Ingeneria de Software
 
-- **Nombre**: demo
-- **Correo**: my.email@mail.com
+|     Equipo             |    Correo electrónico            |
+|------------------------|----------------------------------|
+| Embriz Moreno Ricardo  | 417034454@pcpuma.acatlan.unam.mx | 
+| Rivas Torres Monserrat | 316142210@pcpuma.acatlan.unam.mx | 
+| Sosa López Miguel Raúl | sosa.miguel.c43@gmail.com        | 
+
